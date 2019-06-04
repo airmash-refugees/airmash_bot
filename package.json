@@ -1,0 +1,7 @@
+{
+  "name": "airmash-bot",
+  "version": "0.0.1",
+  "dependencies": {
+    "ws": "^6.1.2"
+  }
+}
